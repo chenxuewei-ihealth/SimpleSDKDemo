@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpleBle</string>
+    <string name="check_permission">Check Permission</string>
+    <string name="auth">Auth License</string>
+    <string name="scan">Scan Device</string>
+    <string name="connect">Connect Device</string>
+</resources>
